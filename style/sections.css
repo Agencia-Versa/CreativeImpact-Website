@@ -249,3 +249,23 @@ footer hr{
         gap: 20px;
     }
 }
+
+.footer-company{
+    text-align: center;
+    background: #000000;
+    color: #ffffff;
+    width: 100%;
+    padding: 0;
+}
+
+.footer-company p{
+    padding: 2rem;
+}
+
+.footer-company a{
+    color: #ffffff;
+}
+
+.footer-company p{
+    margin: 0;
+}
